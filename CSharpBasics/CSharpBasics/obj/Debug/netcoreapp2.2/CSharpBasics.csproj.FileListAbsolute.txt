@@ -1,0 +1,11 @@
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.deps.json
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.runtimeconfig.json
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.runtimeconfig.dev.json
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.dll
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.pdb
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.csprojAssemblyReference.cache
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.AssemblyInfoInputs.cache
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.AssemblyInfo.cs
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.dll
+C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.pdb
