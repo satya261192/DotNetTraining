@@ -686,32 +686,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h208874\\.nuget\\packages\\": {},
+    "C:\\Users\\satya\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\trainings\\Sathya\\DotNetTraining\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
+      "projectUniqueName": "C:\\Users\\satya\\desktop\\DotNetTraining\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
       "projectName": "CSharpBasics",
-      "projectPath": "C:\\trainings\\Sathya\\DotNetTraining\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
-      "packagesPath": "C:\\Users\\h208874\\.nuget\\packages\\",
-      "outputPath": "C:\\trainings\\Sathya\\DotNetTraining\\CSharpBasics\\CSharpBasics\\obj\\",
+      "projectPath": "C:\\Users\\satya\\desktop\\DotNetTraining\\CSharpBasics\\CSharpBasics\\CSharpBasics.csproj",
+      "packagesPath": "C:\\Users\\satya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\satya\\desktop\\DotNetTraining\\CSharpBasics\\CSharpBasics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\h208874\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        "C:\\Users\\satya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

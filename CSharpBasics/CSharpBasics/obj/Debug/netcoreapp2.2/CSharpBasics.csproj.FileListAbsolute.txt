@@ -9,3 +9,14 @@ C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreap
 C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.AssemblyInfo.cs
 C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.dll
 C:\trainings\Sathya\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.pdb
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.deps.json
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.runtimeconfig.json
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.runtimeconfig.dev.json
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.dll
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\bin\Debug\netcoreapp2.2\CSharpBasics.pdb
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.csprojAssemblyReference.cache
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.AssemblyInfoInputs.cache
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.AssemblyInfo.cs
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.dll
+C:\Users\satya\desktop\DotNetTraining\CSharpBasics\CSharpBasics\obj\Debug\netcoreapp2.2\CSharpBasics.pdb
