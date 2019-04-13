@@ -1,0 +1,7 @@
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\bin\Debug\missingNumberInArray.exe.config
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\bin\Debug\missingNumberInArray.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\bin\Debug\missingNumberInArray.pdb
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.csprojAssemblyReference.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.pdb

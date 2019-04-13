@@ -1,0 +1,7 @@
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\bin\Debug\StartPyramid.exe.config
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\bin\Debug\StartPyramid.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\bin\Debug\StartPyramid.pdb
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\obj\Debug\StartPyramid.csprojAssemblyReference.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\obj\Debug\StartPyramid.csproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\obj\Debug\StartPyramid.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\StartPyramid\obj\Debug\StartPyramid.pdb

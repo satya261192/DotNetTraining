@@ -1,0 +1,7 @@
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojAssemblyReference.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

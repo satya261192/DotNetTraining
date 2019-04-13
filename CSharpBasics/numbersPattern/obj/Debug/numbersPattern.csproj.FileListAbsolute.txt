@@ -1,0 +1,7 @@
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\bin\Debug\numbersPattern.exe.config
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\bin\Debug\numbersPattern.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\bin\Debug\numbersPattern.pdb
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\obj\Debug\numbersPattern.csprojAssemblyReference.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\obj\Debug\numbersPattern.csproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\obj\Debug\numbersPattern.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\numbersPattern\obj\Debug\numbersPattern.pdb

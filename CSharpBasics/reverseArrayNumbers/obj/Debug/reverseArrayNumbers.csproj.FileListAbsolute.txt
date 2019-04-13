@@ -1,0 +1,7 @@
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\bin\Debug\reverseArrayNumbers.exe.config
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\bin\Debug\reverseArrayNumbers.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\bin\Debug\reverseArrayNumbers.pdb
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.csprojAssemblyReference.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.csproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
