@@ -5,3 +5,10 @@ C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug
 C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.csproj.CoreCompileInputs.cache
 C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.exe
 C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.pdb
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\bin\Debug\reverseArrayNumbers.exe.config
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\bin\Debug\reverseArrayNumbers.exe
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\bin\Debug\reverseArrayNumbers.pdb
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.csprojAssemblyReference.cache
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.exe
+D:\DotNetTraining\CSharpBasics\reverseArrayNumbers\obj\Debug\reverseArrayNumbers.pdb

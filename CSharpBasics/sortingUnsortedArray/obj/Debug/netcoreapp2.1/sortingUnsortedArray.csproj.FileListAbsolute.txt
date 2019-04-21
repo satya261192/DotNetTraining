@@ -1,0 +1,11 @@
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\bin\Debug\netcoreapp2.1\sortingUnsortedArray.deps.json
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\bin\Debug\netcoreapp2.1\sortingUnsortedArray.runtimeconfig.json
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\bin\Debug\netcoreapp2.1\sortingUnsortedArray.runtimeconfig.dev.json
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\bin\Debug\netcoreapp2.1\sortingUnsortedArray.dll
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\bin\Debug\netcoreapp2.1\sortingUnsortedArray.pdb
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\obj\Debug\netcoreapp2.1\sortingUnsortedArray.csprojAssemblyReference.cache
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\obj\Debug\netcoreapp2.1\sortingUnsortedArray.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\obj\Debug\netcoreapp2.1\sortingUnsortedArray.AssemblyInfoInputs.cache
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\obj\Debug\netcoreapp2.1\sortingUnsortedArray.AssemblyInfo.cs
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\obj\Debug\netcoreapp2.1\sortingUnsortedArray.dll
+D:\DotNetTraining\CSharpBasics\sortingUnsortedArray\obj\Debug\netcoreapp2.1\sortingUnsortedArray.pdb

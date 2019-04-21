@@ -1,0 +1,11 @@
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\bin\Debug\netcoreapp2.1\multidimensionalarrays.deps.json
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\bin\Debug\netcoreapp2.1\multidimensionalarrays.runtimeconfig.json
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\bin\Debug\netcoreapp2.1\multidimensionalarrays.runtimeconfig.dev.json
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\bin\Debug\netcoreapp2.1\multidimensionalarrays.dll
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\bin\Debug\netcoreapp2.1\multidimensionalarrays.pdb
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\obj\Debug\netcoreapp2.1\multidimensionalarrays.csprojAssemblyReference.cache
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\obj\Debug\netcoreapp2.1\multidimensionalarrays.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\obj\Debug\netcoreapp2.1\multidimensionalarrays.AssemblyInfoInputs.cache
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\obj\Debug\netcoreapp2.1\multidimensionalarrays.AssemblyInfo.cs
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\obj\Debug\netcoreapp2.1\multidimensionalarrays.dll
+D:\DotNetTraining\CSharpBasics\multidimensionalarrays\obj\Debug\netcoreapp2.1\multidimensionalarrays.pdb

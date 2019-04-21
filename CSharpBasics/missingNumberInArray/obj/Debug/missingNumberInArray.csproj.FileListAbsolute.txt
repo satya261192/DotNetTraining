@@ -5,3 +5,10 @@ C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debu
 C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.csproj.CoreCompileInputs.cache
 C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.exe
 C:\Users\satya\Desktop\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.pdb
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\bin\Debug\missingNumberInArray.exe.config
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\bin\Debug\missingNumberInArray.exe
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\bin\Debug\missingNumberInArray.pdb
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.csprojAssemblyReference.cache
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.exe
+D:\DotNetTraining\CSharpBasics\missingNumberInArray\obj\Debug\missingNumberInArray.pdb
